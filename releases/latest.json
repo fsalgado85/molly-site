@@ -1,0 +1,10 @@
+{
+  "version": "1.1.0",
+  "minShell": "1.1.0",
+  "url": "molly-code-1.1.0.zip",
+  "sha256": "23134068d4b1607aa0da0d21b36605bf9bc1f1a015894fff8902df602a20c59a",
+  "notes": "Molly now updates herself: no more reinstalling. Her chat is much smarter: she keeps the thread of the conversation all day, can search the web, read your OneDrive files, look things up in Gmail and Calendar, and remember things you ask her to.",
+  "size": 1036900,
+  "released": "2026-10-30",
+  "reinstallUrl": "https://fsalgado85.github.io/molly-site/releases/reinstall.html"
+}
