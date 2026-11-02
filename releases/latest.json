@@ -1,10 +1,10 @@
 {
-  "version": "1.1.1",
+  "version": "1.2.0",
   "minShell": "1.1.0",
-  "url": "molly-code-1.1.1.zip",
-  "sha256": "4c1165a64f2fdb946e9abc1f5b418fec202f80af9682772a4e01468dda161313",
-  "notes": "Molly can now speak with an ElevenLabs voice. Set it up from the Molly menu → Molly's Voice… (paste your ElevenLabs key, pick a voice). When the month's credits run out she switches to the Mac voice by herself.",
-  "size": 1046063,
+  "url": "molly-code-1.2.0.zip",
+  "sha256": "9ff6d0e464b27ecb4d775326c8de4bfb4a50f9b69eb9fcd4d2ef7fb7721811e2",
+  "notes": "New Holo screen: your futuristic desk with Molly's live email, calendar, open points, weather, markets and bills in the glass panels, and Molly's 3D robot in the ring. Desk view is one tap away.",
+  "size": 1411212,
   "released": "2026-11-02",
   "reinstallUrl": "https://fsalgado85.github.io/molly-site/releases/reinstall.html"
 }
