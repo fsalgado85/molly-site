@@ -1,10 +1,10 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "minShell": "1.1.0",
-  "url": "molly-code-1.4.0.zip",
-  "sha256": "e5093c03bcc3041d72c2765a03479bb34f333b34640c3a76935187369c392a09",
-  "notes": "Calendar day, week and month views with navigation; OneDrive Files and Notepad on the dock; animated ring; globe with the places you've been; Hey Molly now says why it's off and asks for the microphone; old desk view removed.",
-  "size": 1774420,
-  "released": "2026-11-03",
+  "url": "molly-code-1.5.0.zip",
+  "sha256": "946a74ec848b6e9d570276754c1b1b3a46841352f910a853a29d41175c352dae",
+  "notes": "New way to talk to Molly: say Hey Molly (or tap Talk) and just speak; a short pause sends it, your words appear as you talk, you can interrupt her, and she keeps listening a few seconds after answering. More accurate speech recognition (downloads once in the background). Listening pauses while the Mac is locked.",
+  "size": 1781243,
+  "released": "2026-11-04",
   "reinstallUrl": "https://fsalgado85.github.io/molly-site/releases/reinstall.html"
 }
